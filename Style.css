@@ -1,0 +1,169 @@
+@media only screen and (min-width:575px)
+{
+  /*ekran genısliği 699px altında oldugunda calısacaklar*/
+  .sosyalmedya
+  {
+  width:15%;height:28px;
+  }
+  #sosyalmedyaa
+  {
+    width:37%;height:28px;   
+  }
+  .menu0
+  {
+    font-family:georgia;
+  }
+  .KAROSEL
+  {
+    width: 100%; height:570px;
+  }
+  .KUTU
+  {
+    height: 200px; font-family:Verdana;  
+  }
+  .KUTU2
+  {
+    height: 200px; font-family:Verdana;
+    background-color:rgb(131, 170, 170);
+  }
+  .BASLIK
+  {
+    font-family:'Times New Roman'; display: inline; position: relative; left:42%; top:10px;
+  }
+  #PAKETLER
+  {
+    background:url(RESİM/hakkimizda.jpg);
+    width: 100%;height: 500px
+  }
+  #TABLO1
+  {
+    width:31%;position: relative;left:8px;
+  }
+  #TABLO2
+  {
+    width:31%;position: relative;left:34%;
+  }
+  #TABLO3
+  {
+    width:31%;position: relative;left:67%;
+  }
+  .BASLIK00
+  {
+    position: relative; left: 45%;top:15px;
+  }
+  #watsapresim
+  {
+    width: 50px; height: 48px;
+  }
+  #resımm
+  {
+    width: 100%; height: 300px;
+  }
+  .lınkfoter
+  {
+    position: relative;
+    left: 25%;
+  }
+  .iletisim
+   {
+    width: 9%;height:30%;
+   }
+   #lıstgrup
+   {
+    height: 165px;
+   }
+   #LOGO
+   {
+    width:100%;height:209px
+   }
+ }
+
+/*ekran genıslıği 700px uzeınde oldugunda calısacaklar*/
+@media only screen and (max-width:574px)
+{
+  .sosyalmedya
+  {
+   width:7%;height:22px;
+  }
+  #sosyalmedyaa
+  {
+  width:8%;height:24px;
+  position: relative;
+  right:6%;
+  
+  }
+  .menu0
+  {
+    font-family:georgia;
+  }
+  .BTNN
+  {
+   margin-left:40px ; 
+  }
+  .KAROSEL
+  {
+    width: 100%; height:570px;
+  }
+   #resımm
+   {
+       width: 95%; height: 30%;
+   }
+   #watsapresim
+   {
+    width: 30%; height: 40%;
+   }
+   .watsapp
+   {
+    position: relative;
+    top: 20%;   
+    left: 10%;
+  }
+  .BASLIK00
+  {
+    margin-left:40%;
+  }
+  .BASLIK
+  {
+    font-family:'Times New Roman'; display: inline; 
+    position: relative; left: 30%; top: 3%;
+  }
+   #PAKETLER
+   {
+    background:url(RESİM/hakkimizda.jpg);
+    width: 100%;height:auto
+   }
+   #TABLO1
+  {
+    width:62%;
+  }
+   #TABLO2
+   {
+    width:62%;position: relative;left:83px;
+   }
+   #TABLO3
+   {
+    width:62%;position: relative;left:158px;
+   }
+   .lınkler
+   {
+    margin-top: 5%;
+   }
+   .iletisim
+   {
+    width: 20%;height: 28%;
+    position: relative;
+   }
+   #BTN
+   {
+     position: relative;  
+     right: 20%;
+   }
+   #LOGO
+   {
+     width: 100%; height:165px;
+   }
+   .YORUM
+   {
+    position: relative;left:25px;
+   }
+}
